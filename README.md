@@ -21,7 +21,7 @@ Computer Science graduate from **Universitas Lampung** (GPA 3.69/4.00) with a st
 I enjoy turning raw data into actionable insights and deploying models into real products. Currently open to roles in **Data Analytics**, **Data Science**, and **Machine Learning Engineering**, especially in fintech and e-commerce.
 
 - 🎓 S.Kom from Universitas Lampung, 2026
-- 🌱 Currently deepening Data analytics skills
+- 🌱 Currently deepening SQL analytics & data engineering skills
 - 💼 Previously Head of Media & Information Division at HIMAKOM UNILA
 - 📍 Based in Bandar Lampung, Indonesia
 
@@ -93,8 +93,13 @@ I enjoy turning raw data into actionable insights and deploying models into real
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muktiprab&show_icons=true&theme=default&hide_border=true&count_private=true&hide=prs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktiprab&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=muktiprab&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muktiprab&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---

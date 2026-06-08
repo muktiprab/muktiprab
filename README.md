@@ -16,12 +16,12 @@
 
 ## 🙋‍♂️ About Me
 
-Computer Science graduate from **Universitas Lampung** (GPA 3.69/4.00) with a strong focus on machine learning, NLP, and data analytics. My thesis explored deep learning architectures (Bi-LSTM vs TCN) for multi-label classification on agricultural data — and I've been building ever since.
+Computer Science graduate from **Universitas Lampung** (GPA 3.69/4.00) with a strong focus on machine learning, NLP, and data analytics.
 
-I enjoy turning raw data into actionable insights and deploying models into real products. Currently open to roles in **Data Analytics**, **Data Science**, and **Machine Learning Engineering**, especially in fintech and e-commerce.
+I enjoy turning raw data into actionable insights and deploying models into real products. Currently open to roles in **Data Analytics**, **Data Science**, and **Machine Learning Engineering**.
 
 - 🎓 S.Kom from Universitas Lampung, 2026
-- 🌱 Currently deepening SQL analytics & data engineering skills
+- 🌱 Currently deepening data analytics skills
 - 💼 Previously Head of Media & Information Division at HIMAKOM UNILA
 - 📍 Based in Bandar Lampung, Indonesia
 
@@ -55,7 +55,6 @@ I enjoy turning raw data into actionable insights and deploying models into real
 
 **Web Development**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

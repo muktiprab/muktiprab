@@ -23,7 +23,7 @@ I enjoy turning raw data into actionable insights and deploying models into real
 - 🎓 S.Kom from Universitas Lampung, 2026
 - 🌱 Currently deepening data analytics skills
 - 💼 Previously Head of Media & Information Division at HIMAKOM UNILA
-- 📍 Based in Bandar Lampung, Indonesia
+- 📍 Based in Bekasi, Indonesia
 
 ---
 
